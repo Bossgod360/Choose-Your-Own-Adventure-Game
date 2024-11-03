@@ -47,3 +47,4 @@ Players interact with friends and rivals, testing their relationships and loyalt
 - **The Forbidden Section:** Navigate Hogwarts’ restricted library for an elusive book on dark spells.
 - **Rowena Ravenclaw’s Mystery:** Decode a message left in Aviaris Tongue, uncovering an ancient secret.
 - **Hogwarts Vault:** Use your spell-casting prowess to unlock a vault rumored to contain artifacts from Hogwarts’ founders.
+![](https://github.com/Bossgod360/Choose-Your-Own-Adventure-Game/blob/main/Choose-Adv.png)
